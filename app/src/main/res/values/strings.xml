@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">minutos</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="nearby_places">Lugares cercas</string>
+    <string name="favorites_places">Favoritos</string>
+    <string name="api_key_android">AIzaSyCtnrkP4UmBPhPsmkGkXeKLRu7WqKVKIUc</string>
+    <string name="api_key_api">AIzaSyDIetbSy1CH_Iwv4R1ZuRvyTQnCJ9gpH6E</string>
+    <string name="https">https://maps.googleapis.com/maps/api/place/nearbysearch/</string>
+    <string name="Loading">Cargando...</string>
+</resources>
