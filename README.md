@@ -8,6 +8,10 @@ Falto fase tres donde se este actualizando la ubicacion y puedas ver como van ca
 
 <br/>
 
+<a href="https://github.com/Arcangel1994/PlacesNearby-Directions/raw/main/minutos/app/libs/app-debug.apk">Download the Apk</a>
+
+<br/>
+
 <img  src="https://raw.githubusercontent.com/Arcangel1994/PlacesNearby-Directions/main/minutos/app/libs/WhatsApp%20Image%202022-03-17%20at%208.38.08%20AM.jpeg"/>
 
 <br/>
